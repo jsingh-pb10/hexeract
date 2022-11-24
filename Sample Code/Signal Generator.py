@@ -104,10 +104,10 @@ def predict(latest_state: str):
 ############################# Connection to Schema ############################
 
 mydb = mysql.connector.connect(
-  host="data-main.ccy5tshcdpvf.ap-south-1.rds.amazonaws.com",
-  user="admin",
-  password="Brava2021!!",
-    database = 'energy'
+  host="",
+  user="",
+  password="",
+    database = ''
 
 
 )
